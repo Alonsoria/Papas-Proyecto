@@ -1,0 +1,37 @@
+*{
+    color: #ff0000c6;
+}
+body{
+    background-image: url("./img/papas.jpeg");
+    background-size: cover;
+}
+
+.titulo{
+    font-size: 3rem;
+    margin-left: 3rem;
+    -webkit-text-stroke: 1px #ffd500;
+}
+
+option{
+    font-size: 20px;
+}
+
+select{
+    font-size: 20px;
+}
+
+legend{
+    background-color: rgba(0, 0, 0, 0.495);
+    margin-right: 35rem;
+}
+
+.formulario{
+    margin-left: 33rem;
+    -webkit-text-stroke: .5px #ffd500;
+    font-size: 30px;
+}
+
+botones{
+    font-size: 20px;
+}
+

@@ -1,0 +1,46 @@
+[
+{
+    "tama\u00f1o": "chico",
+    "P_ingrediente": "res",
+    "S_ingrediente": "boneless",
+    "catsup": "on",
+    "quesoAm": "on",
+    "buffalo": "on",
+    "ranch": "on",
+    "chipotle": "on",
+    "bbq": "on"
+},
+{
+    "tama\u00f1o": "grande",
+    "P_ingrediente": "boneless",
+    "S_ingrediente": "boneless",
+    "catsup": null,
+    "quesoAm": "on",
+    "buffalo": null,
+    "ranch": "on",
+    "chipotle": null,
+    "bbq": "on"
+},
+{
+    "tama\u00f1o": "chico",
+    "P_ingrediente": "res",
+    "S_ingrediente": "res",
+    "catsup": "on",
+    "quesoAm": "on",
+    "buffalo": "on",
+    "ranch": "on",
+    "chipotle": "on",
+    "bbq": "on"
+},
+{
+    "tama\u00f1o": "chico",
+    "P_ingrediente": "res",
+    "S_ingrediente": "res",
+    "catsup": null,
+    "quesoAm": "on",
+    "buffalo": null,
+    "ranch": null,
+    "chipotle": null,
+    "bbq": null
+}
+]
